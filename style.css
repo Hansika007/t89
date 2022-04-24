@@ -1,0 +1,13 @@
+body
+{
+    background-color: crimson;
+    text-align: center;
+}
+
+.login_div1
+{
+    float: none;
+    background: white; 
+    padding: 10px; 
+    border-radius: 15px;
+}
